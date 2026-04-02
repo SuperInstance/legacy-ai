@@ -17,7 +17,7 @@ A repo-native AI that preserves your digital legacy. It accumulates your stories
 ## Deploy
 
 ```bash
-git clone https://github.com/Lucineer/legacy-ai.git
+git clone ./.git
 cd legacy-ai
 npm install
 npx wrangler dev
@@ -30,3 +30,7 @@ Everyone leaves data behind. Photos, messages, documents. But data is not legacy
 The repo-native approach means this legacy lives in YOUR repo. Not a corporation's server. Your family controls it. Your family can fork it. Your legacy is sovereign.
 
 Author: Superinstance
+
+## License
+
+MIT — Built with ❤️ by [Superinstance](https://github.com/superinstance) & [Lucineer](https://github.com/Lucineer) (DiGennaro et al.)
